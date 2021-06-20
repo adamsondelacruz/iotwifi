@@ -1,6 +1,6 @@
-IMAGE    ?= cjimti/iotwifi
-NAME     ?= iotwifi
-VERSION  ?= 1.0.4
+IMAGE    ?= rpi-wifi
+NAME     ?= rpiwifi
+VERSION  ?= 1.0.0
 
 all: build push
 
